@@ -62,7 +62,7 @@ I'm Neranjana Rajapaksha, a passionate software engineer and aspiring backend de
 ---
 
 ### 🔗 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/NeranjanaRajapaksha)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/SNeranjanaRajapaksha)
 
 
 
