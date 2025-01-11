@@ -36,20 +36,37 @@ I'm Neranjana Rajapaksha, a passionate software engineer and aspiring backend de
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
+### General Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SNeranjanaRajapaksha&show_icons=true&theme=radical)
+
+### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SNeranjanaRajapaksha&layout=compact&theme=radical)
 
----
-
-### 🛠️ Fun Badges
-![Badge](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=blue)
-![Badge](https://img.shields.io/badge/Framework-Laravel-orange)
+### Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SNeranjanaRajapaksha&theme=radical)
 
 ---
 
-### 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NeranjanaRajapaksha-blue?style=flat&logo=linkedin)](https://linkedin.com/in/NeranjanaRajapaksha)  
+## 🌟 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=SNeranjanaRajapaksha&style=flat-square&color=blue)
+
+---
+
+## 🚀 Fun Add-ons
+
+### Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SNeranjanaRajapaksha&theme=radical&no-frame=true)
+
+---
+
+### 🔗 Connect with Me
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/NeranjanaRajapaksha)
+
+
+
+
 
 
 
